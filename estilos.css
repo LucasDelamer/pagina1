@@ -1,0 +1,34 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blue;
+    color: white
+}
+
+#demo{
+    color:bisque
+}
+button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    background-color: white;
+    color: blue;
+    border-radius: 15px;
+  }
+  
+  
+#icono_wp{
+    font-size: 50px; background-color: green;
+    size: 300px;
+}
+#camara1{
+    font-size: 68px; color: Dodgerblue;
+}
+
+#icono_github{
+    font-size: 50px;color:black;background-color: white;
+}
+#foto{
+    border-left: 10px; border-color: black;
+    border-radius: 25px;
+}
